@@ -2,7 +2,7 @@
 Max length of each field in a CSV(coma delimited file) before importing (IML/R - WPS/Proc R)
 
     ```  Max length of each field in a CSV(coma delimited file) before importing (IML/R - WPS/Proc R)  ```
-    ```    ```
+    ```  You need to download the free version of WPS. Free version doesn not limit size of output SAS dataset  ```
     ```      WORKING CODE  ```
     ```        IML/R    WPS/PROC R  ```
     ```    ```
